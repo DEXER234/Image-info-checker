@@ -1,4 +1,3 @@
-Sure! Here's a **GitHub-style `README.md`** for your **Image Info Checker** project:
 
 ---
 
